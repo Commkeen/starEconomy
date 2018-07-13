@@ -1,1 +1,1 @@
-starEconomy
+platformTest
